@@ -1,0 +1,132 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+A0A482RRZ8                       -----MGAGLSAAGLITASLAAALFNVSTLTSVPLFAVLLSICMWVFSPAGAPLHRKFIL	55
+sp|Q92508|PIEZ1_HUMAN_blade      MEPHVLGAVLYWLLLPCALLAACLLRFSGLSLV--YLLFLLLLPWFPGPTRCGLQGHTGR	58
+MGYP000926044221                 ------------------------------------------------------------	0
+                                                                                             
+
+A0A482RRZ8                       LHAHALLAVK----LYSAAVVLCAFLLSLATAASGGQCS-WHRALPGLGLPC--------	102
+sp|Q92508|PIEZ1_HUMAN_blade      LL-RALLGLSLLFLVAHLALQICLHIVPRLDQLLGPSCSRWETLSRHIGVTRLDLKDIPN	117
+MGYP000926044221                 ------------------------------------------------------------	0
+                                                                                             
+
+A0A482RRZ8                       S-FDAGSDWGIFVSLVACFALHIIATISSWRRVWDADSSRFCANDDAAAANEASRVESST	161
+sp|Q92508|PIEZ1_HUMAN_blade      AIRLVAPDLGILVVSSVCLGIC--------------------------------------	139
+MGYP000926044221                 ------------------------------------------------------------	0
+                                                                                             
+
+A0A482RRZ8                       TTTISLAFNSSNLRQSSRVGPHQLRVNTPSSGALPSPLAVSLHESDADDTARPPSAGMQG	221
+sp|Q92508|PIEZ1_HUMAN_blade      ----------GRLARNTRQSPHPRELD-----------------DDERDVDASPTAGLQE	172
+MGYP000926044221                 ------------------------------------------------------------	0
+                                                                                             
+
+A0A482RRZ8                       CIP---------------RMCWYDRAHQFVVA-LFASQVGLAGACIAYSCWAITYPAACT	265
+sp|Q92508|PIEZ1_HUMAN_blade      AATLAPTRRSRLAARFRVTAHWLLVAAGRVLAVTLLALAGIAHPSALSSVYLLLFLALCT	232
+MGYP000926044221                 ------------------------------------------------------------	0
+                                                                                             
+
+A0A482RRZ8                       FFLLVATLWLGATSGYGVNGNSIAESRIVPAMLLYGGVVTMVQYCVALVPKWQLPDLFLP	325
+sp|Q92508|PIEZ1_HUMAN_blade      W-------WA-CHFPISTRG----FSRLCVAVGCFGAGHLICLYCYQMP----LAQALLP	276
+MGYP000926044221                 ------------------------------------------------------------	0
+                                                                                             
+
+A0A482RRZ8                       PTNSPPDQSG-----------RIHLDVVSVS---SPYELPAVQALFSPAAQFLGASPSTL	371
+sp|Q92508|PIEZ1_HUMAN_blade      PAGIWARVLGLKDFVGPTNCSSPHALVLNTGLDWPVYASPGVLLLLCYATASLRKLRAYR	336
+MGYP000926044221                 ------------------------------------------------------------	0
+                                                                                             
+
+A0A482RRZ8                       PEAQFL-----LQCAALILCALHLKARSSLFAADVRASSMHRGGRRPTLSVTSCNS-RLT	425
+sp|Q92508|PIEZ1_HUMAN_blade      PSGQRKEAAKGYEARELELAELDQ------W-PQERESDQHVVPTAPDTEADNCIVHELT	389
+MGYP000926044221                 ------------------------------------------------------------	0
+                                                                                             
+
+A0A482RRZ8                       PTSPPVYAPVSPNAAYISHQN--SSVQLLLLGQGKLGVVVAL-----LAKQWVLVTLALL	478
+sp|Q92508|PIEZ1_HUMAN_blade      GQSSVLRRPVRPKRAEPREASPLHSLGHLIMDQSYVCALIAMMVWSITYHSWLTFVLLL-	448
+MGYP000926044221                 ------------------------------------------------------------	0
+                                                                                             
+
+A0A482RRZ8                       YGLSLSHVDVVHAGYVVFFVWFATQAKHR--RDYWPLLVAYCVLAICIMFMWDVTTWALP	536
+sp|Q92508|PIEZ1_HUMAN_blade      W---------------ACLIWTVR-SRHQLAMLCSPCILLYGMTLCCLRYVWAMDLRP--	490
+MGYP000926044221                 ------------------------------------------------------------	0
+                                                                                             
+
+A0A482RRZ8                       DTRANIPPWIVGPNIPNPTVDLWHSTFA----TNMLVFGVAV-------L----------	575
+sp|Q92508|PIEZ1_HUMAN_blade      ----ELPT-TLGPVSL-RQLGLEHTRYPCLDLGAMLLYTLTFWLLLRQFVKEKLLKWAES	544
+MGYP000926044221                 ------------------------------------------------------------	0
+                                                                                             
+
+A0A482RRZ8                       QAPLYQAPLRDAARARMREAKESARDFRRQWQHAKFVIAHYSPRLVILICFGICLIPPIT	635
+sp|Q92508|PIEZ1_HUMAN_blade      PAALTEVTVADTEPTRTQTLLQSLGE---------L-VKGVYAKYWIYVCAGMFIVVSFA	594
+MGYP000926044221                 -------------PTRTQTLLQSLGE---------L-VKGVYAKYWIYVCAGMFIVVSFA	37
+                                               :* :   :*  :         : :     :  * :* *: ::  ::
+
+A0A482RRZ8                       FNSVISLSLTFVL-ALLHLLMSQEQAGDLARHHAGRPNCRCMRSARLFATFSIVEGVILG	694
+sp|Q92508|PIEZ1_HUMAN_blade      GRLVV-YKIVYMFLFLLCLTLFQVY-YSLWRK---------LLKAFWWLV-VAYTMLVLI	642
+MGYP000926044221                 GRLVV-YKIVYMFLFLLCLTLFQVY-YSLWRK---------LLKAFWWLV-VAYTMLVLI	85
+                                  . *:  .:.:::  ** * : *    .* *:         : .*  : .      ::* 
+
+A0A482RRZ8                       LRYMYQFESGQEALD-------NTIGALFRN-------WMPMRDVGFWRY---VDASYNG	737
+sp|Q92508|PIEZ1_HUMAN_blade      AVYTFQFQDFPAYWRNLTGFTDEQLGDLGLEQFSVSELFSSILVPGFFLLACILQLHYFH	702
+MGYP000926044221                 AVYTFQFQDFPAYWRNLTGFTDEQLGDLGLEQFSVSELFSSILVPGFFLLACILQLHYFH	145
+                                   * :**:.             : :* *  :       :  :   **:     ::  *  
+
+A0A482RRZ8                       SVYLQLLDTAALM--VVTAVQWHLLVLHHKQHTEDGQRQLTARSMPAVPSGALLTRNTVV	795
+sp|Q92508|PIEZ1_HUMAN_blade      RPFMQLTDMEHVSLPGTRLPRWA-----HRQDAVSGTPLLREEQQEHQQ--QQQEEEEEE	755
+MGYP000926044221                 RPFMQLTDMEHVSLPGTRLPRWA-----HRQDAVSGTPLLREEQQEHQQ--QQQEEEEEE	198
+                                   ::** *   :    .   :*      *:*.: .*   *  ..           .:   
+
+A0A482RRZ8                       IDENDADFRVLPPDSRADA-KAAAALGVHT---------------------RDA------	827
+sp|Q92508|PIEZ1_HUMAN_blade      EDSRDEGLGVATPHQATQVPEGAAKWGLVAERLLELAAGFSDVLSRVQVFLRRLLELHVF	815
+MGYP000926044221                 EDSRDEGLGVATPHQATQVPEGAAKWGLVAERLLELAAGFSDVLSRVQVFLRRLLELHVF	258
+                                  *..* .: *  *.. ::. :.**  *: :                     *        
+
+A0A482RRZ8                       ------------TCVAIVGLLVLILCNVAAVSTGYTALASIMSCVAAAMLLALM------	869
+sp|Q92508|PIEZ1_HUMAN_blade      KLVALYTVWVALKEVSVMNLLLVVL---WAFALPYPRFRPMASCLSTVWTCVIIVCKMLY	872
+MGYP000926044221                 KLVALYTVWVALKEVSVMNLLLVVL---WAFALPYPRFRPMASCLSTVWTCVIIVCKMLY	315
+                                             . *:::.**:::*    *.:  *  :  : **:::.   .::      
+
+A0A482RRZ8                       -RAARAPSKLSQ-AAP--PNDGAR----AGASTRASGPP--QGVAGMDAQS--EGTSASS	917
+sp|Q92508|PIEZ1_HUMAN_blade      QLKVVNPQEYSSNCTEPFPNSTNLLPTEISQSLLYRGPVDPANWFGVRKGFPNLGYIQNH	932
+MGYP000926044221                 QLKVVNPQEYSSNCTEPFPNSTNLLPTEISQSLLYRGPVDPANWFGVRKGFPNLGYIQNH	375
+                                    .  *.: *. .:   **.        . *    **    .  *:       *   . 
+
+A0A482RRZ8                       HRVL---FRAAIAWLRDGCTYL-----------------------RRAASALTYLIQIVC	951
+sp|Q92508|PIEZ1_HUMAN_blade      LQVLLLLVFEAIVYRRQ-EHYRRQHQLAPLPAQAVFASGTRQQLDQDLLGCLKYFINFFF	991
+MGYP000926044221                 LQVLLLLVFEAIVYRRQ-EHYRRQHQ----------------------------------	400
+                                  :**   .  **.: *:   *                                       
+
+A0A482RRZ8                       YQHGGSMLHISVCLVALTFTSATTAAYVGLSVASLALATGASFCQRTATVQHPLAQTEVG	1011
+sp|Q92508|PIEZ1_HUMAN_blade      YKFGLEI-----CFLMAV-------NVIGQRMNFLVTLHG---CWLVAILTR------RH	1030
+MGYP000926044221                 ------------------------------------------------------------	400
+                                                                                             
+
+A0A482RRZ8                       RQS-HGPRPMCCSLCARRGLARRSSVTEDLLSPHVPGMAPPAQEFSLAWLPLYTLAAIAA	1070
+sp|Q92508|PIEZ1_HUMAN_blade      RQAIARLWPNYCLFLALFL------LYQYLL---CLGM-PPALCIDYPWRWSRAVPMNSA	1080
+MGYP000926044221                 ------------------------------------------------------------	400
+                                                                                             
+
+A0A482RRZ8                       VIQYLCLLPFFEPSRFEAAEVDIAAWFGFQHVASPTYSDVWACLCPHVCVMVACIVQRTS	1130
+sp|Q92508|PIEZ1_HUMAN_blade      LIKWLYLPDFFRAPNSTNL-----------------ISDFLLLLCASQQWQVFS-AER-T	1121
+MGYP000926044221                 ------------------------------------------------------------	400
+                                                                                             
+
+A0A482RRZ8                       QRYGALVRHLSASEAERARASGSSLPQ-------------------LWTEQA----SGYG	1167
+sp|Q92508|PIEZ1_HUMAN_blade      EEWQRMA-GVNTDRLEPLRGEPNPVPNFIHCRSYLDMLKVAVFRYLFWLVLVVVFVTGAT	1180
+MGYP000926044221                 ------------------------------------------------------------	400
+                                                                                             
+
+A0A482RRZ8                       RASATGSKE--A--GPMLLGP---CRWPAARSNAWTCLSTRSR-----------------	1203
+sp|Q92508|PIEZ1_HUMAN_blade      RISIFGLGYLLACFYLLLFGTALLQRDTRARLVLWDCLILYNVTVIISKNMLSLLACVFV	1240
+MGYP000926044221                 ------------------------------------------------------------	400
+                                                                                             
+
+A0A482RRZ8                       ------------------------------------------------------------	1203
+sp|Q92508|PIEZ1_HUMAN_blade      EQMQTGFCWVIQLFSLVCTVKGYYDPKEMMDRDQDCLLPVEEAGIIWDSVCFFFLLLQRR	1300
+MGYP000926044221                 ------------------------------------------------------------	400
+                                                                                             
+
+A0A482RRZ8                       -----	1203
+sp|Q92508|PIEZ1_HUMAN_blade      VFLSH	1305
+MGYP000926044221                 -----	400
+                                      

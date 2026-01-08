@@ -1,0 +1,63 @@
+########################################
+# Program: water
+# Rundate: Sat  3 Jan 2026 14:22:30
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-I20260103-142226-0305-87824119-p1m.asequence
+#    -bsequence emboss_water-I20260103-142226-0305-87824119-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: blade_repeat34_seq
+# 2: mgyp_seq
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 270
+# Identity:      54/270 (20.0%)
+# Similarity:    93/270 (34.4%)
+# Gaps:          73/270 (27.0%)
+# Score: 60.5
+# 
+#
+#=======================================
+
+blade_repeat3    108 IWTVRSRHQLAMLCSPCILLYGMTLCCLRYVWAMDLRPE-------LPT-    149
+                     |||.|       ..|..||:.|:.|..| |::..|...:       ||. 
+mgyp_seq          65 IWTRR-------WVSVWILIEGLCLVIL-YLYQFDAVAQFFYDARGLPQK    106
+
+blade_repeat3    150 ---TLGPVSLRQ-------------LGLEHTR--------------YPCL    169
+                        |:...|:.|             |||....              |.|:
+mgyp_seq         107 CNWTISDQSVWQCTRINSTWVTFSDLGLREFESSGASRLAVAFGMFYNCV    156
+
+blade_repeat3    170 DLGAMLLYTLTFWLLLRQFVKEKLLKWAESPAALTEVTVADTEPTRTQTL    219
+                     ...|:|   :.|..:.|:..|.:|:......:......:.|.|....:.:
+mgyp_seq         157 SFVALL---ILFISVGRKLEKHRLVSGDSFGSEADYYQLLDDEVAPMRDV    203
+
+blade_repeat3    220 LQSLGELVKG----------VYAKYWIYVCAGMFIVVSFAGRLVVYKIVY    259
+                     ..::|..|:.          |..||:.|...|...::  |..::....|.
+mgyp_seq         204 AVAVGSNVRSQCAEVTHTIVVALKYFCYTHGGKMGII--AAVIICGSDVC    251
+
+blade_repeat3    260 MFLFLLCLTLFQVYYSLWRKLL---------KAFWWLVVAYTMLVLIAVY    300
+                     .|.|:|.|.|..:.....::.:         ||  |.|: :....:.:|.
+mgyp_seq         252 AFQFILLLLLCALVICTGKQTVAGGGTPIFSKA--WSVI-FVCGAIRSVL    298
+
+blade_repeat3    301 TFQFQDFPAYWRNLTGFTDE    320
+                     |..||....|:.....::|:
+mgyp_seq         299 TILFQFNSVYYHVAVPYSDD    318
+
+
+#---------------------------------------
+#---------------------------------------

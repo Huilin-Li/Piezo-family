@@ -1,0 +1,7 @@
+# Job: sysm
+# Query: bladA
+# No:  Chain   Z    rmsd lali nres  %id PDB  Description
+   1:  blad-A 49.2  0.0 1303  1304  100                                                                        
+   2:  MGYP-A 11.0  3.8  128   431   13                                                                        
+   3:  A0A4-A 10.0 41.3  343  1203   11   MOLECULE: UNCHARACTERIZED PROTEIN;                                   
+

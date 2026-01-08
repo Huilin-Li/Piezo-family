@@ -1,0 +1,51 @@
+########################################
+# Program: water
+# Rundate: Sat  3 Jan 2026 14:23:31
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-I20260103-142322-0545-31849674-p1m.asequence
+#    -bsequence emboss_water-I20260103-142322-0545-31849674-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: a0a4_seq
+# 2: mgyp_seq
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 122
+# Identity:      29/122 (23.8%)
+# Similarity:    54/122 (44.3%)
+# Gaps:          21/122 (17.2%)
+# Score: 69.0
+# 
+#
+#=======================================
+
+a0a4_seq         200 VIAHYSPRLVILICFGICLIPPIT---FNSVISLSLTFVLALLHLLMSQE    246
+                     ||...|..:||:|.....|.||..   |:.|..:.:.|:.||        
+mgyp_seq          14 VIERASLVVVIVIILLSSLQPPTVMTLFSLVDVIGILFITAL--------     55
+
+a0a4_seq         247 QAGDLARHHAGRPNCRCMRSARLFATFSIVEGVILGLRYMYQFESGQEAL    296
+                     ...:::|        |.:.:.|..:.:.::||:.|.:.|:|||::..:..
+mgyp_seq          56 NVDNISR--------RYIWTRRWVSVWILIEGLCLVILYLYQFDAVAQFF     97
+
+a0a4_seq         297 DNTIGALFR-NWMPMRDVGFWR    317
+                     .:..|...: || .:.|...|:
+mgyp_seq          98 YDARGLPQKCNW-TISDQSVWQ    118
+
+
+#---------------------------------------
+#---------------------------------------

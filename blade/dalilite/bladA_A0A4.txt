@@ -1,0 +1,248 @@
+# Job: output options
+# Query: bladA
+# No:  Chain   Z    rmsd lali nres  %id PDB  Description
+   1:  A0A4-A 10.0 41.3  343  1203   11   MOLECULE: UNCHARACTERIZED PROTEIN;                                   
+
+# Pairwise alignments
+
+No 1: Query=bladA Sbjct=A0A4A Z-score=10.0
+
+DSSP  ------------------------------------------------------------
+Query ------------------------------------------------------------    0
+ident                                                             
+Sbjct mgaglsaaglitaslaaalfnvstltsvplfavllsicmwvfspagaplhrkfillhaha   60
+DSSP  lhhhhhhhhhhhhhhhhhhhlllllllhhhhhhhhhhhhhhllllllllhhhhhhllhhh
+
+DSSP  ------------------------------------------------------------
+Query ------------------------------------------------------------    0
+ident                                                             
+Sbjct llavklysaavvlcafllslataasggqcswhralpglglpcsfdagsdwgifvslvacf  120
+DSSP  hhhhhhhhhhhhhhhhhhhhhhhhlllllhhhhlhhhhlllllllllhhhhhhhhhhhhh
+
+DSSP  ------------------------------------------------------------
+Query ------------------------------------------------------------    0
+ident                                                             
+Sbjct alhiiatisswrrvwdadssrfcanddaaaaneasrvessttttislafnssnlrqssrv  180
+DSSP  hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhllllllllllllllllllllll
+
+DSSP  -------------------------------------------------LLHHHH-HHHH
+Query -------------------------------------------------MEPHVL-GAVL   10
+ident                                                     |    |  
+Sbjct gphqlrvntpssgalpsplavslhesdaddtarppsagmqgciprmcwyDRAHQFvVALF  240
+DSSP  lllllllllllllllllllllllllllllllllllllllllllllhhhhHHHHHHhHHHH
+
+DSSP  -HHLHHHHHHHHHHHHLL-------LHHHHHHHHHHHHHHHLLllllllllLHHHHHHHH
+Query -YWLLLPCALLAACLLRF-------SGLSLVYLLFLLLLPWFPgptrcglqGHTGRLLRA   62
+ident      |  |  |               |    |                  |      | 
+Sbjct aSQVGLAGACIAYSCWAItypaactFFLLVATLWLGATSGYGV-------nGNSIAESRI  293
+DSSP  hLHHHHHHHHHHHHHHHHhlllhhhHHHHHHHHHHHHHHLLLL-------lLLHHHHHHH
+
+DSSP  HHHHHHHHHHHHHHHHHHHHHLHH--------------------------------hhHH
+Query LLGLSLLFLVAHLALQICLHIVPR--------------------------------ldQL   90
+ident      |   |                                                  
+Sbjct VPAMLLYGGVVTMVQYCVALVPKWqlpdlflpptnsppdqsgrihldvvsvsspyelpAV  353
+DSSP  HHHHHHHHHHHHHHHHHHHHHHHHhlhhhllllllllllllllllllllllllhhhlhHH
+
+DSSP  HLLllLHHHHHHHhhlllLLLLllHHHHHHHHHHHHHHHHHHHHHHHHHHHHLLL---lL
+Query LGPscSRWETLSRhigvtRLDLkdIPNAIRLVAPDLGILVVSSVCLGICGRLARN---tR  147
+ident      |                          |                    |     |
+Sbjct QAL-fSPAAQFLG--aspSTLP--EAQFLLQCAALILCALHLKARSSLFAADVRAssmhR  408
+DSSP  HLL-lLHHHHHLL--lllLLLL--HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhhhH
+
+DSSP  LLL-LLLL-LLLLLLLLLLlLLLLLLLLLL-LLLLHHHHHHHHHHHHHHHHHHHHHHHHh
+Query QSP-HPRE-LDDDERDVDAsPTAGLQEAAT-LAPTRRSRLAARFRVTAHWLLVAAGRVLa  204
+ident               |                 |                  |      | 
+Sbjct GGRrPTLSvTSCNSRLTPT-SPPVYAPVSPnAAYISHQNSSVQLLLLGQGKLGVVVALL-  466
+DSSP  HLLlLLLLlLLLLLLLLLL-LLLLLLLLLHhHHHHHHHHHHHHHHHHHHHHHHHHHHHH-
+
+DSSP  hhhhhhhhhllllhhhhhhhhhhhhhhhhhhllllllhhhhhhhhhhhhhhhhhhhhhhh
+Query vtllalagiahpsalssvylllflalctwwachfpistrgfsrlcvavgcfgaghlicly  264
+ident                                                             
+Sbjct ------------------------------------------------------------  466
+DSSP  ------------------------------------------------------------
+
+DSSP  hlllhhhhlllllllhhhhhhllllllllllllllllllllllllhhhhhhhhhhhhhhh
+Query cyqmplaqallppagiwarvlglkdfvgptncssphalvlntgldwpvyaspgvllllcy  324
+ident                                                             
+Sbjct ------------------------------------------------------------  466
+DSSP  ------------------------------------------------------------
+
+DSSP  hhhhhhhhllllllllllllllllllllllllllllllllllllllllllllllllllll
+Query ataslrklrayrpsgqrkeaakgyearelelaeldqwpqeresdqhvvptapdteadnci  384
+ident                                                             
+Sbjct ------------------------------------------------------------  466
+DSSP  ------------------------------------------------------------
+
+DSSP  llllllllllllllllllllllllllhhhhhhhhhhhlhhhhhhhhhhhhhhhlllhhhh
+Query vheltgqssvlrrpvrpkraepreasplhslghlimdqsyvcaliammvwsityhswltf  444
+ident                                                             
+Sbjct ------------------------------------------------------------  466
+DSSP  ------------------------------------------------------------
+
+DSSP  hhhhhhhhhhhlllhhhhhhhhhhhhhhhhhhhhhhhhhlllllhhhllleelleehhhh
+Query vlllwacliwtvrsrhqlamlcspcillygmtlcclryvwamdlrpelpttlgpvslrql  504
+ident                                                             
+Sbjct ------------------------------------------------------------  466
+DSSP  ------------------------------------------------------------
+
+DSSP  lllllllhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhlllllllllllllllllhhhhh
+Query glehtrypcldlgamllytltfwlllrqfvkekllkwaespaaltevtvadteptrtqtl  564
+ident                                                             
+Sbjct ------------------------------------------------------------  466
+DSSP  ------------------------------------------------------------
+
+DSSP  hhhhhhhhhhhhhhhhhhhhhhhhhhhhhlllllhhhhhhhhhhhhhhhhhhhlhhhhhh
+Query lqslgelvkgvyakywiyvcagmfivvsfagrlvvykivymflfllcltlfqvyyslwrk  624
+ident                                                             
+Sbjct ------------------------------------------------------------  466
+DSSP  ------------------------------------------------------------
+
+DSSP  hhhhhhhhhhhhhhhhhhhhhhlllllhhhhhhhhhlllhhhhhhhllllllhhhhhhhh
+Query llkafwwlvvaytmlvliavytfqfqdfpaywrnltgftdeqlgdlgleqfsvselfssi  684
+ident                                                             
+Sbjct ------------------------------------------------------------  466
+DSSP  ------------------------------------------------------------
+
+DSSP  hhhhhhhhhhhhhhhllhhhhhhhlllllllllllllllllllllllllllllllllhhh
+Query lvpgffllacilqlhyfhrpfmqltdmehvslpgtrlprwahrqdavsgtpllreeqqeh  744
+ident                                                             
+Sbjct ------------------------------------------------------------  466
+DSSP  ------------------------------------------------------------
+
+DSSP  hllllllllllllllllllllllllllllllhhhlhhhhhhhhhhhhhhhhhhhhhhhhh
+Query qqqqqeeeeeeedsrdeglgvatphqatqvpegaakwglvaerllelaagfsdvlsrvqv  804
+ident                                                             
+Sbjct ------------------------------------------------------------  466
+DSSP  ------------------------------------------------------------
+
+DSSP  hhhhhhhhhhhhhhhhhhhhhhhhlllhhhhhhhhhhhhhlllhhhhhhhhhhhhhhhhh
+Query flrrllelhvfklvalytvwvalkevsvmnlllvvlwafalpyprfrpmasclstvwtcv  864
+ident                                                             
+Sbjct ------------------------------------------------------------  466
+DSSP  ------------------------------------------------------------
+
+DSSP  hhhhhhhlllllllhhhllllllllllllllllhhhhlllllllllllhhhhhlllllll
+Query iivckmlyqlkvvnpqeyssnctepfpnstnllpteisqsllyrgpvdpanwfgvrkgfp  924
+ident                                                             
+Sbjct ------------------------------------------------------------  466
+DSSP  ------------------------------------------------------------
+
+DSSP  hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhlllllllllllllllllhhhlllhhhhhh
+Query nlgyiqnhlqvllllvfeaivyrrqehyrrqhqlaplpaqavfasgtrqqldqdllgclk  984
+ident                                                             
+Sbjct ------------------------------------------------------------  466
+DSSP  ------------------------------------------------------------
+
+DSSP  hhhhhhhHHHHHHHHHHHHHHHHHHHLLLLLHHHHHHHHHHHLLllHHHHHHHHHHHHHH
+Query yfinfffYKFGLEICFLMAVNVIGQRMNFLVTLHGCWLVAILTRrhRQAIARLWPNYCLF 1044
+ident         |                             |   |          ||     
+Sbjct -------AKQWVLVTLALLYGLSLSHVDVVHAGYVVFFVWFATQ--AKHRRDYWPLLVAY  517
+DSSP  -------HHHHHHHHHHHHHHHHLLLLLHHHHHHHHHHHHHHHL--HHHHHHLHHHHHHH
+
+DSSP  HHHHHHHHHHHHHL--LLHHhllLLHHhllllllllHHHHHHhlllllLLLL--LLLL-H
+Query LALFLLYQYLLCLG--MPPAlciDYPWrwsravpmnSALIKWlylpdfFRAP--NSTN-L 1099
+ident   |               |                    |                    
+Sbjct CVLAICIMFMWDVTtwALPD---TRAN--------iPPWIVG---pniPNPTvdLWHStF  563
+DSSP  HHHHHHHHHHHHHHhhHLLL---LHHH--------lLHHHHL---lllLLLHhhHHHHhH
+
+DSSP  HHHHHHHHHHHHHHHHHHH-lLLHHHHHHhlllllllllllllLLLLLLLlllllhhhhh
+Query ISDFLLLLCASQQWQVFSA-eRTEEWQRMagvntdrleplrgePNPVPNFihcrsyldml 1158
+ident     |    |  |     |  |     ||                               
+Sbjct ATNMLVFGVAVLQAPLYQAplRDAARARM----reakesardfRRQWQHA------kfvi  613
+DSSP  HHHHHHHHHHHHHHHHHLHhhHHHHHHHH----hhhhhllhhhHHHHHHH------hhhh
+
+DSSP  HHHHHHLHHHHHHHHHHHHhHLLL--LHHHHHHHHHHHHHHH------------------
+Query KVAVFRYLFWLVLVVVFVTgATRI--SIFGLGYLLACFYLLL------------------ 1198
+ident      |                     |            ||                  
+Sbjct AHYSPRLVILICFGICLIP-PITFnsVISLSLTFVLALLHLLmsqeqagdlarhhagrpn  672
+DSSP  HHHHHHHHHHHHHHHHHLL-LLLLllHHHHHHHHHHHHHHHHhhhhhhhhhhhhhhllll
+
+DSSP  ------------------------------------------------------------
+Query ------------------------------------------------------------ 1198
+ident                                                             
+Sbjct crcmrsarlfatfsivegvilglrymyqfesgqealdntigalfrnwmpmrdvgfwryvd  732
+DSSP  lhhhhhhhhhhhhhhhhhhhhhhhhhlllhhhhhhhhhhhhhhhlllllhhhhlllllll
+
+DSSP  ------------------------------------------------------------
+Query ------------------------------------------------------------ 1198
+ident                                                             
+Sbjct asyngsvylqlldtaalmvvtavqwhllvlhhkqhtedgqrqltarsmpavpsgalltrn  792
+DSSP  llllhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhlllllllllllll
+
+DSSP  ------------------------------------------------------------
+Query ------------------------------------------------------------ 1198
+ident                                                             
+Sbjct tvvidendadfrvlppdsradakaaaalgvhtrdatcvaivgllvlilcnvaavstgyta  852
+DSSP  lllllllllllllllllhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhlllhh
+
+DSSP  ------------------------------------------------------------
+Query ------------------------------------------------------------ 1198
+ident                                                             
+Sbjct lasimscvaaamllalmraarapsklsqaappndgaragastrasgppqgvagmdaqseg  912
+DSSP  hhhhhhhhhhhhhhhhhhhlllhhhhllllllllllllllllllllllllllllllllll
+
+DSSP  ------------------------------------------------------------
+Query ------------------------------------------------------------ 1198
+ident                                                             
+Sbjct tsasshrvlfraaiawlrdgctylrraasaltyliqivcyqhggsmlhisvclvaltfts  972
+DSSP  lhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhllllhhhhhhhhhhhhhhh
+
+DSSP  ------------------------------------------------------------
+Query ------------------------------------------------------------ 1198
+ident                                                             
+Sbjct attaayvglsvaslalatgasfcqrtatvqhplaqtevgrqshgprpmccslcarrglar 1032
+DSSP  hhhhhhhhhhhhhhhhhhhhhhhhhhllllllllllllllllllllllllllllllllll
+
+DSSP  ------------------------------------------------------------
+Query ------------------------------------------------------------ 1198
+ident                                                             
+Sbjct rssvtedllsphvpgmappaqefslawlplytlaaiaaviqylcllpffepsrfeaaevd 1092
+DSSP  lllllllllllllllllllllllllllhhhhhhhhhhhhhhhhhhhhhllhhhhhhhhhh
+
+DSSP  -----hhhhhhhllhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhlhhhhhhhhhhhhhh
+Query -----fgtallqrdtrarlvlwdclilynvtviisknmlsllacvfveqmqtgfcwviql 1253
+ident                                                             
+Sbjct iaawfgfqhvasptysdvwaclcphvcvmvacivqrtsqrygalvrhlsaseaerarasg 1152
+DSSP  hhhhllllllllllhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhll
+
+DSSP  hlllllllllllhhhhhlllllllllllllllhhhhhhhhhhhhhhhhhll
+Query fslvctvkgyydpkemmdrdqdcllpveeagiiwdsvcffflllqrrvfls 1304
+ident                                                    
+Sbjct sslpqlwteqasgygrasatgskeagpmllgpcrwpaarsnawtclstrsr 1203
+DSSP  lllllllllllllllllllllllllllllllllllllllllllllllllll
+
+
+# Structural equivalences
+   1: blad-A A0A4-A     1 -   6 <=>  230 - 235   (MET    1  - LEU    6  <=> ASP  230  - PHE  235 )                          
+   1: blad-A A0A4-A     7 -  10 <=>  237 - 240   (GLY    7  - LEU   10  <=> VAL  237  - PHE  240 )                          
+   1: blad-A A0A4-A    11 -  27 <=>  242 - 258   (TYR   11  - PHE   27  <=> SER  242  - ILE  258 )                          
+   1: blad-A A0A4-A    28 -  45 <=>  266 - 283   (SER   28  - PRO   45  <=> PHE  266  - VAL  283 )                          
+   1: blad-A A0A4-A    54 -  86 <=>  285 - 317   (GLY   54  - ARG   86  <=> GLY  285  - TRP  317 )                          
+   1: blad-A A0A4-A    89 -  93 <=>  352 - 356   (GLN   89  - PRO   93  <=> ALA  352  - LEU  356 )                          
+   1: blad-A A0A4-A    96 - 103 <=>  358 - 365   (SER   96  - ARG  103  <=> SER  358  - GLY  365 )                          
+   1: blad-A A0A4-A   109 - 112 <=>  369 - 372   (ARG  109  - LEU  112  <=> SER  369  - PRO  372 )                          
+   1: blad-A A0A4-A   115 - 145 <=>  373 - 403   (ILE  115  - ASN  145  <=> GLU  373  - ALA  403 )                          
+   1: blad-A A0A4-A   147 - 150 <=>  408 - 411   (ARG  147  - PRO  150  <=> ARG  408  - ARG  411 )                          
+   1: blad-A A0A4-A   151 - 154 <=>  413 - 416   (HIS  151  - GLU  154  <=> PRO  413  - SER  416 )                          
+   1: blad-A A0A4-A   155 - 164 <=>  418 - 427   (LEU  155  - ALA  164  <=> THR  418  - THR  427 )                          
+   1: blad-A A0A4-A   166 - 175 <=>  428 - 437   (PRO  166  - THR  175  <=> SER  428  - PRO  437 )                          
+   1: blad-A A0A4-A   176 - 203 <=>  439 - 466   (LEU  176  - LEU  203  <=> ALA  439  - LEU  466 )                          
+   1: blad-A A0A4-A   992 -1028 <=>  467 - 503   (TYR  992  - ARG 1028  <=> ALA  467  - GLN  503 )                          
+   1: blad-A A0A4-A  1031 -1058 <=>  504 - 531   (ARG 1031  - GLY 1058  <=> ALA  504  - THR  531 )                          
+   1: blad-A A0A4-A  1059 -1062 <=>  534 - 537   (MET 1059  - ALA 1062  <=> ALA  534  - ASP  537 )                          
+   1: blad-A A0A4-A  1066 -1069 <=>  538 - 541   (ASP 1066  - TRP 1069  <=> THR  538  - ASN  541 )                          
+   1: blad-A A0A4-A  1079 -1084 <=>  543 - 548   (SER 1079  - TRP 1084  <=> PRO  543  - GLY  548 )                          
+   1: blad-A A0A4-A  1091 -1094 <=>  552 - 555   (PHE 1091  - PRO 1094  <=> PRO  552  - THR  555 )                          
+   1: blad-A A0A4-A  1095 -1098 <=>  558 - 561   (ASN 1095  - ASN 1098  <=> LEU  558  - SER  561 )                          
+   1: blad-A A0A4-A  1099 -1118 <=>  563 - 582   (LEU 1099  - ALA 1118  <=> PHE  563  - ALA  582 )                          
+   1: blad-A A0A4-A  1120 -1127 <=>  585 - 592   (ARG 1120  - MET 1127  <=> ARG  585  - MET  592 )                          
+   1: blad-A A0A4-A  1142 -1148 <=>  603 - 609   (PRO 1142  - PHE 1148  <=> ARG  603  - ALA  609 )                          
+   1: blad-A A0A4-A  1159 -1177 <=>  614 - 632   (LYS 1159  - THR 1177  <=> ALA  614  - PRO  632 )                          
+   1: blad-A A0A4-A  1179 -1182 <=>  633 - 636   (ALA 1179  - ILE 1182  <=> PRO  633  - PHE  636 )                          
+   1: blad-A A0A4-A  1183 -1198 <=>  639 - 654   (SER 1183  - LEU 1198  <=> VAL  639  - LEU  654 )                          
+
+# Translation-rotation matrices
+-matrix  "blad-A A0A4-A  U(1,.)   0.551424  0.312604 -0.773441            6.016323"
+-matrix  "blad-A A0A4-A  U(2,.)  -0.426696 -0.690990 -0.583492           -2.583799"
+-matrix  "blad-A A0A4-A  U(3,.)  -0.716842  0.651776 -0.247641          -35.258076"
+

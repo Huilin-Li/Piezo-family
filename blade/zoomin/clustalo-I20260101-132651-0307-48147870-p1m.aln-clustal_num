@@ -1,0 +1,47 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+a0a4_seq412_760                -----PTLS---------VTSCNSRLTPTSPPVYAPVSPNAAYISHQNSSVQLLLLGQGK	46
+blade_repeat34_seq345_701      KGYEARELELAELDQWPQERESDQHVVPTAPD-----TEADNCIVHELTG---Q----SS	48
+mgyp_seq                       ------------------------------PT-----T---DYIFVELPL---QVIERAS	19
+                                                             *      :     *  :           ..
+
+a0a4_seq412_760                LGV-VVALLAKQWVLVTLALLY------GL---SLSHVDVVHAGYVVFFVWFATQ-----	91
+blade_repeat34_seq345_701      VLR--RPVRPKRAEPREASPL----HSLGHLIMDQSYVCALI----AMMVWSITYHSWLT	98
+mgyp_seq                       LVVVIVIILLSSLQPPTVMTLFSLVDVIGILFITALNVDNIS----RRYIWTRR---WVS	72
+                               :      :  .         *       *        *  :        :*         
+
+a0a4_seq412_760                --------------AKHRRD--YWPLLVAYCVLAICIMFMWDV------TTWALPDTRA-	128
+blade_repeat34_seq345_701      FVLLLWACLIWTVRSRHQLAMLCSPCILLYGMT-LCC----------LRYVWAMD-----	142
+mgyp_seq                       V----W-----IL-----IEGLCLVILYLYQFD-AVAQFFYDARGLPQKCNWTISDQSVW	117
+                                                         :  * .                   *::      
+
+a0a4_seq412_760                -----N------------------------------------------IPPWIVGPNIPN	141
+blade_repeat34_seq345_701      ---LRPELPTTLGPVSLRQLGLE---------HTRYPCLDLGAMLLYTLTFWLLLRQFVK	190
+mgyp_seq                       QCTRINSTWVTFSDLGLREFESSGASRLAVAFGMFYNCVSFVALLILFI---SVGRKLEK	174
+                                                                               :    :  :: :
+
+a0a4_seq412_760                PTVDLWHSTFATNMLVFGVAVLQAPLY------QAPLRDAARARMREAKESARDFRRQWQ	195
+blade_repeat34_seq345_701      EKLLKWA------------------------ESPAALTEVTVADTEPTRTQTLL-QSLGE	225
+mgyp_seq                       HRLVSGDS--------FGS---EADYYQLLDDEVAPMRDVAVAVGSNVRSQCAE-VT---	219
+                                 :                               * : :.: *    .: .         
+
+a0a4_seq412_760                HAKFVIAHYSPRLVILICFGICLI-PPITF-NSVISLSLTFVLALL-HLLMSQEQAGDLA	252
+blade_repeat34_seq345_701      LVKGVYAKY----WIYVCAGMFIVV---SFAGRLVVYKIVYMFLFLLCLTL--FQ-----	271
+mgyp_seq                       HTIVVALKY----FCYTHGGKMGIIAAVIICGSD-VCAFQFILLLLLCALV--ICTGKQT	272
+                                .  *  :*          *   :     : .      : ::: :*    :         
+
+a0a4_seq412_760                RHHAGRPNCRCMRSARLFATFSIVEGVILGLRYMYQFESGQE------ALDNT-------	299
+blade_repeat34_seq345_701      -------VYYSLWR----------------------------------------------	278
+mgyp_seq                       VAGGGTPIFSKAWS-----VIFVCGAIRSVLTILFQFNSVYYHVAVPYSDDTTWAGLRVA	327
+                                                                                           
+
+a0a4_seq412_760                ---------------IGALFRNWMPMRDVGFWRYVDASYNGSVYLQLLDTAALMVVTAVQ	344
+blade_repeat34_seq345_701      ------------------------KLLKAFWWLVVAYTMLVLI----AVYTFQFQDFPAY	310
+mgyp_seq                       WVSRGMKVPKLSNPERATMMQMWAAMQESIYLILIGFLMKMS-----LEFRPAAREFSVL	382
+                                                        : .  :   :                       . 
+
+a0a4_seq412_760                WHLLV--------------------------------------------	349
+blade_repeat34_seq345_701      WRNLTGFTDEQLGDLGLEQF--SVSELFSSILVPGFFLLACILQLHYFH	357
+mgyp_seq                       WKSFRAQENISAGGEERENDGETKGEELHGSDEPTFHRRSGAFCFHFGS	431
+                               *: :                                             

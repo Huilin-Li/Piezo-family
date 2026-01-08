@@ -1,0 +1,71 @@
+########################################
+# Program: water
+# Rundate: Sat  3 Jan 2026 14:20:41
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-I20260103-142037-0793-22397417-p1m.asequence
+#    -bsequence emboss_water-I20260103-142037-0793-22397417-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: EMBOSS_001
+# 2: EMBOSS_001
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 360
+# Identity:      65/360 (18.1%)
+# Similarity:   128/360 (35.6%)
+# Gaps:         103/360 (28.6%)
+# Score: 78.0
+# 
+#
+#=======================================
+
+EMBOSS_001        28 PTAPDTEADNCIVHELTGQSSVLRRPVRPKRAEPREASPLHSLGHLIMDQ     77
+                     ||...|..::    .||..|..:..||.|..|.....:  .|:..|::.|
+EMBOSS_001         1 PTLSVTSCNS----RLTPTSPPVYAPVSPNAAYISHQN--SSVQLLLLGQ     44
+
+EMBOSS_001        78 SYVCALIAMMV--W-----SITYHSWLTFVLLLWA----CLIW-TVRSRH    115
+                     ..:..::|::.  |     ::.|...|:.|.::.|    ..:| ..:::|
+EMBOSS_001        45 GKLGVVVALLAKQWVLVTLALLYGLSLSHVDVVHAGYVVFFVWFATQAKH     94
+
+EMBOSS_001       116 QLAMLCSPCILLYGMTLCCLRYVWAM------DLRPELPT-TLGPVSLRQ    158
+                     :....  |.::.|.:...|:.::|.:      |.|..:|. .:||     
+EMBOSS_001        95 RRDYW--PLLVAYCVLAICIMFMWDVTTWALPDTRANIPPWIVGP-----    137
+
+EMBOSS_001       159 LGLEHTRYPCLDLGAMLLYT--LTFWLLLRQFVKEKLLKWAESPAALTEV    206
+                         :...|.:||......|  |.|.:.:.|             |.|.:.
+EMBOSS_001       138 ----NIPNPTVDLWHSTFATNMLVFGVAVLQ-------------APLYQA    170
+
+EMBOSS_001       207 TVADTEPTRTQTLLQSLGELVKGVYAKYWIYVCAGMFIVVSFAGRLVVYK    256
+                     .:.|....|.:...:|..:     :.:.|.:   ..|::..::.|||:  
+EMBOSS_001       171 PLRDAARARMREAKESARD-----FRRQWQH---AKFVIAHYSPRLVI--    210
+
+EMBOSS_001       257 IVYMFLFLLCLTLFQVYYSLWRKLLKAFWWLVVAYTMLVLIAVYTFQFQD    306
+                            |:|..:..:....:..::......|:|...|::          
+EMBOSS_001       211 -------LICFGICLIPPITFNSVISLSLTFVLALLHLLM----------    243
+
+EMBOSS_001       307 FPAYWRNLTGFTDEQLGDLGLEQ--------FSVSELFSSI-LVPGFFLL    347
+                                :.||.|||....        ...:.||::. :|.|    
+EMBOSS_001       244 -----------SQEQAGDLARHHAGRPNCRCMRSARLFATFSIVEG----    278
+
+EMBOSS_001       348 ACILQLHYFH    357
+                      .||.|.|.:
+EMBOSS_001       279 -VILGLRYMY    287
+
+
+#---------------------------------------
+#---------------------------------------
